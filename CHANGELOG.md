@@ -10,7 +10,7 @@ This file lists all the notable changes to this project.
 
 * The Output window now can display the  **Build Output**, **Preview Output**, and **Logs**.
 
-    <img src="media/Changelogs/19.1-output-window.png" width="50%" alt="Theme Designer 19.1 - Output Window"/>
+    <img src="media/Changelogs/19.1-output-window.png" width="469" alt="Theme Designer 19.1 - Output Window"/>
 
 
 ### Enhancements
@@ -19,16 +19,16 @@ This file lists all the notable changes to this project.
 
 * The application's layout has changed to borderless.
 
-    <img src="media/Changelogs/19.1-borderless-layout.png" width="50%" alt="Theme Designer 19.1 - Borderless Layout"/>
+    <img src="media/Changelogs/19.1-borderless-layout.png" width="339" alt="Theme Designer 19.1 - Borderless Layout"/>
 
 * Resolve Merge Conflicts - you do not need to use the KDiff3 tool to choose a file version.
 
-    <img src="media/Changelogs/19.1-resolve-merge-take-mine.png" width="50%" alt="Theme Designer 19.1 - Resolve Merge Conflicts"/>
+    <img src="media/Changelogs/19.1-resolve-merge-take-mine.png" width="679" alt="Theme Designer 19.1 - Resolve Merge Conflicts"/>
 
 * New **Show in Explorer** and **Copy Path** items in the CodeView window's context menu.
 
-    <img src="media/Changelogs/19.1-showinexplorer-and-copy-path-menu-items.png" width="50%" alt="Theme Designer 19.1 - New CodeView Menu Items"/>
+    <img src="media/Changelogs/19.1-showinexplorer-and-copy-path-menu-items.png" width="453" alt="Theme Designer 19.1 - New CodeView Menu Items"/>
 
 * Visual Studio-Inspired syntax highlighting.
 
-    <img src="media/Changelogs/19.1-code-view-code-highlighting.png" width="50%" alt="Theme Designer 19.1 - New CodeView Syntax Highlighting"/>
+    <img src="media/Changelogs/19.1-code-view-code-highlighting.png" width="578" alt="Theme Designer 19.1 - New CodeView Syntax Highlighting"/>
